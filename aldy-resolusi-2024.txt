@@ -1,5 +1,8 @@
 Resolusi 2024
 -konsisten belajar web developer
+  * Backend Developer
+  * Frontend Developer
+  * Full Stack Developer
 -lulus kuliah tepat waktu
 -belajar web programming minimal 1 jam per hari
 -bisa membuat aplikasi web sendiri
